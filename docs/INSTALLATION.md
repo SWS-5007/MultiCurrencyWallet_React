@@ -4,7 +4,7 @@
 2. Clone repository
 
 ```
-git clone https://github.com/swaponline/MultiCurrencyWallet.git
+git clone https://github.com/NextExchange/MultiCurrencyWallet.git
 ```
 
 3. Use Node 12
@@ -45,7 +45,7 @@ HOST=X.X.X.X npm run start
 6. Build for prod
 
 ```
-npm run build:mainnet https://yourcoolsite.com/
+npm run build:mainnet https://swap.next.exchange/
 ```
 
 (don't forget to add a slash in the end of url)
