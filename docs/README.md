@@ -1,9 +1,8 @@
 ﻿[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![Deploy to swaponline.github.io](https://github.com/swaponline/MultiCurrencyWallet/workflows/Deploy%20to%20swaponline.github.io/badge.svg)
-[![About SWAP token](https://img.shields.io/badge/ERC20-SWAP-green)](https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/SWAPTOKEN.md)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## MultiCurrencyWallet
+## MultiCurrencyWallet (running on the NEXT.chain)
+### Swap your NEXT between native cryptocurrencies, ERC20 tokens and fiat.
  
 - 👛 Crypto wallet: BTC, ETН, USDT, {your_token}...
 - 💵 Fiat gateway: USD, EUR, RUB, UAH...
@@ -11,23 +10,19 @@
 - 💡 Open-source, client-side
 - 📦 Embeddable into your site!
  
-Live version here: https://swaponline.github.io (mirror https://swaponline.io)
+Live version here: https://swap.next.exchange
 
-No coding skills? Use :package: [WordPress plugin with admin panel](https://codecanyon.net/item/multicurrency-crypto-wallet-and-exchange-widgets-for-wordpress/23532064) :package: 
-
-Looking for investment opportunity? Read about [ERC20:SWAP token](/docs/SWAPTOKEN.md) (target price 1$)
-
-### 1. Multi-currency wallet: your users can store Bitcoin and custom assets
+### 1. Multi-currency wallet: store NEXT and custom assets
 
 Add many assets to your wallet:
 
 <img src="https://wallet.wpmix.net/codecanyon_description_3.jpg">
 
-### 2. ERC20 token wallet
+### 2. NEXT wallet
 
-<a href="https://mytoken.wpmix.net/">Wallet demo (custom asset "SWAP")</a>
+<a href="https://mytoken.wpmix.net/">Wallet demo (custom asset "NEXT")</a>
 
-### 3. Buy/Sell assets (exchange widget)
+### 3. Buy/Sell assets (exchange)
 
 <a href="https://generator.swaponline.site/livedemo/0x4E12EB8e506Ccd1427F6b8F7faa3e88fB698EB28/319aa913-4e84-483f-a0d1-8664a13f56b7/#/buy/btc-to-jack">Exchange widget live demo</a>
 <img src="https://generator.swaponline.site/generator/assets/img/example_exchange.png">
@@ -41,13 +36,6 @@ Add many assets to your wallet:
 ### 5. Other demos
 
 <a href="https://swaponline.github.io/#/usdt-wallet">USDT stablecoin wallet (payment system)</a>
-
-
-## Easy to use in your project
-
-- Install [WordPress plugin](https://codecanyon.net/item/multicurrency-crypto-wallet-and-exchange-widgets-for-wordpress/23532064)
-- Or make your own build following the [installation guide](/docs/INSTALLATION.md)
-
 
 ## Customizable (images, colors, texts...)
 
@@ -69,17 +57,10 @@ Supported languages:
 - 🇳🇱 NL
 - 🇪🇸 ES
 
-Work in progress to add more languages.
-
 
 ## How to support the project?
 
-- Buy [SWAP token](/docs/SWAPTOKEN.md)
-- [Donate](/docs/DONATE.md)
-- _(the easiest)_ Star the project ⭐
+- Buy [NEXT](/docs/SWAPTOKEN.md)
+- Come to our Telegram (https://t.me/next_exchange)
 
-Developer? Start with [ONBOARDING](https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/ONBOARDING.md)
-
----
-
-Any questions [are welcome](https://t.me/mcvchat)
+Developer? Join us in our journey and send your resume to info@next.exchange
