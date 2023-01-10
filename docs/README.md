@@ -8,7 +8,6 @@
 - 💵 Fiat gateway: USD, EUR, RUB, UAH...
 - ⚛️ P2P exchange – atomic swaps
 - 💡 Open-source, client-side
-- 📦 Embeddable into your site!
  
 Live version here: https://swap.next.exchange
 
